@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil, me chamo Jovêncio Neto
 
-Gosto de jogar com os amigos e programar nas horas vagas, também adoro cachorros, mas não sei o motivo😅
+Gosto de jogar com os amigos e programar nas horas vagas, também adoro cachorros, meu Bethoven é meu precioso🐶❤️
 
 **EXPERIÊNCIAS...**<br>
 <img align="center" alt="Evs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
