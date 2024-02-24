@@ -8,12 +8,12 @@ Gosto de jogar com os amigos e programar nas horas vagas, também adoro cachorro
   <img align="center" alt="Evs-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
 
 **HOBBIES...**<br>
-*Tocar guitarra (aprendendo); <br>
-*Aprender algo novo( e passar raiva tentando aprender);<br>
-*Andar de bicileta ( com música e um friozinho fica perfeito);<br>
-*Passar raiva jogando com amigos ( melhor parte do dia);<br>
-*Passear com meu cachorro (Bethoven lindo);<br>
-*Em progresso(atualizando...);<br>
+➤Tocar guitarra (aprendendo); <br>
+➤Aprender algo novo( e passar raiva tentando aprender);<br>
+➤Andar de bicicleta ( com música e um friozinho fica perfeito);<br>
+➤Passar raiva jogando com amigos ( melhor parte do dia);<br>
+➤Passear com meu cachorro (Bethoven lindo);<br>
+➤Em progresso(atualizando...);<br>
 
 **OUTRAS INFORMAÇÕES...**
 
