@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil, me chamo Jovêncio Neto
 
-Gosto de jogar Brawls Stars e programar nas horas vagas, também adoro cachorros, mas não sei o motivo😅
+Gosto de jogar com os amigos e programar nas horas vagas, também adoro cachorros, mas não sei o motivo😅
 
 **EXPERIÊNCIAS...**<br>
 <img align="center" alt="Evs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -8,6 +8,11 @@ Gosto de jogar Brawls Stars e programar nas horas vagas, também adoro cachorros
   <img align="center" alt="Evs-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
 
 **HOBBIES...**
+-Tocar guitarra (aprendendo)
+-Aprender algo novo( e passar raiva tentando aprender)
+-Andar de bicileta ( com música e um friozinho fica perfeito)
+-Passar raiva jogando com amigos ( melhor parte do dia)
+-Passear com meu cachorro (Bethoven)
 
 **OUTRAS INFORMAÇÕES...**
 
