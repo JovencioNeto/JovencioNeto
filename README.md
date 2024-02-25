@@ -14,7 +14,7 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 ➤Andar de bicicleta (com música e um friozinho fica perfeito);<br>
 ➤Passar raiva jogando com amigos (melhor parte do dia);<br>
 ➤Passear com meu cachorro (Bethoven lindo);<br>
-➤Escutar música (F song e Freaks são minhas favoritas);<br>
+➤Escutar músicas (F song e Freaks são minhas favoritas);<br>
 ➤Em progresso (atualizando...);<br>
 
 **OUTRAS INFORMAÇÕES...**<br>
