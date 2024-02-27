@@ -27,6 +27,78 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
 ➤ Ainda preciso atualizar minhas redes, mas algumas preciso até de idade pra criar (porque Linkedin?)<br>
 
+ <table border="2">
+  <th>ANÁLISE E DESENVOLIMENTO DE SISTEMAS</th>
+
+  <tr>
+  <td>LÓGICA DE PROGRAMAÇÃO</td>
+  </tr>
+  <tr>
+  <td>ARQUITETURA E MANUTENÇÃO DE COMPUTADORES</td>
+  </tr>
+  <tr>
+  <td>PLANEJAMENTO DE CARREIRA</td>
+  </tr>
+  <tr>
+  <td>PROGRAMAÇÃO WEB</td>
+  </tr>
+  <tr>
+  <td>GESTÃO DE STARTUPS 1</td>
+  </tr>
+  <tr>
+  <td>ANÁLISE E PROJETO DE SISTEMAS </td>
+  </tr>
+  <tr>
+  <td>DESIGN DE INTERFACE E USABILIDADE</td>
+  </tr>
+
+  <tr>
+  <td>BANCO DE DADOS</td>
+  </tr>
+
+  <tr>
+  <td>SISTEMAS EMBARCADOS</td>
+  </tr>
+
+  <tr>
+  <td>GESTÃO DE STARTUPS 2</td>
+  </tr>
+
+  <tr>
+  <td>PROGRAMAÇÃO ORIENTADA A OBJETOS</td>
+  </tr>
+
+  <tr>
+  <td>SISTEMAS DE SEGURANÇA DA INFORMAÇÃO</td>
+  </tr>
+
+  <tr>
+  <td>REDE DE COMPUTADORES</td>
+  </tr>
+
+  <tr>
+  <td>INGLÊS TÉCNICO</td>
+  </tr>
+
+  <tr>
+  <td>QUALIDADE E TESTE DE SOFTWARES</td>
+  </tr>
+
+  <tr>
+  <td>PROJETO INTEGRADOR TI</td>
+  </tr>
+
+  <tr>
+  <td>DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS</td>
+  </tr>
+
+  <tr>
+  <td>GESTÃO DE STARTUPS 3</td>
+  </tr>
+
+  <tr>
+  <td>ESTÁGIO</td>
+  </tr>
  <div>
   <a href="https://github.com/JovencioNeto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
