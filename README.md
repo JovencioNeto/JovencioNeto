@@ -102,6 +102,9 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
   <tr>
   <td>ESTÁGIO</td>
   </tr>
+
+  **ALGUMAS ESTATISTICAS**<br>
+  
  <div>
   <a href="https://github.com/JovencioNeto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
