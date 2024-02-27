@@ -27,6 +27,9 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
 ➤ Ainda preciso atualizar minhas redes, mas algumas preciso até de idade pra criar (porque Linkedin?)<br>
 
+
+**CURSO TÉCNICO...**<br>
+
  <table border="2">
   <th>ANÁLISE E DESENVOLIMENTO DE SISTEMAS</th>
 
