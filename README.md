@@ -1,5 +1,7 @@
 # Bem-vindo ao meu perfil, me chamo Jovêncio Neto
 
+### Atualmente curso Desenvolvimento de Sistemas e quem sabe não viro dev java?!
+
 Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de música essa coisas alegram meu dia, também adoro cachorros, meu Bethoven é meu precioso🐶❤️
 
 **EXPERIÊNCIAS...**<br>
@@ -105,10 +107,17 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
   </table>
 
-  **ALGUMAS ESTATÍSTICAS**
+  **ALGUMAS ESTATÍSTICAS...**
   
  <div>
+
+ 
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+  
   <a href="https://github.com/JovencioNeto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&layout=compact&langs_count=7&theme=vue-dark"/>
+    <img heigth="120em" width="42%" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=shadow_red"/>
+    <img heigth="120em" width="44.5%" src="https://github-readme-streak-stats.herokuapp.com?user=JovencioNeto&hide_border=falso&theme=shadow_red"/>
+    <img heigth="120em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&size_weight=0.5&count_weight=0.5&theme=shadow_red"/>
+    <img height="290em" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&layout=compact&langs_count=7&theme=shadow_red"/>
  </div>
+
