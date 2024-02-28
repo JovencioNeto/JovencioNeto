@@ -20,6 +20,7 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
 **OUTRAS INFORMAÇÕES...**<br>
 
+➤Se quiser falar comigo meu hotmail está a sua disposição (jovencioneto@hotmail.com)<br>
 ➤Ainda em construção...<br>
 
 **STATUS E REDES SOCIAIS...**<br>
