@@ -23,10 +23,13 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 ➤Escutar músicas (F song e Freaks são minhas favoritas);<br>
 ➤Em progresso (atualizando...);<br>
 
-# OUTRAS INFORMAÇÕES...
+# Redes Sociais...
 
-➤Se quiser falar comigo meu hotmail está a sua disposição (jovencioneto@hotmail.com)<br>
-➤Ainda em construção...<br>
+<div style="display:inline_block">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
+  <a href="mailto:jovencioneto@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 # STATUS E REDES SOCIAIS...
 
