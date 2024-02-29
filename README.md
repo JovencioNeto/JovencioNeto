@@ -19,7 +19,9 @@ Buscando sempre expandir meu arsenal de saberes
     <td>
       <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </td> 
-    
+    <td>
+      <img align="center" alt="Jovencio-vscode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+    </td>   
   </tr>
   
   <tr>
