@@ -28,6 +28,9 @@ Buscando sempre expandir meu arsenal de saberes
     <td>
       <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </td> 
+    <td>
+      <img align="center" alt="Jovencio-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+    </td>
   </tr>
 
   <tr>
