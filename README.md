@@ -4,13 +4,16 @@
 
 Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de música essa coisas alegram meu dia, também adoro cachorros, meu Bethoven é meu precioso🐶❤️
 
-**EXPERIÊNCIAS...**<br>
-<img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jovencio-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
-  <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+# EXPERIÊNCIAS...
 
-**HOBBIES...**<br>
+<div style="display: inline_block">
+  <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Jovencio-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
+    <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+# HOBBIES...
 
 ➤Tocar guitarra (aprendendo); <br>
 ➤Aprender algo novo(e passar raiva tentando aprender);<br>
@@ -20,16 +23,16 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 ➤Escutar músicas (F song e Freaks são minhas favoritas);<br>
 ➤Em progresso (atualizando...);<br>
 
-**OUTRAS INFORMAÇÕES...**<br>
+# OUTRAS INFORMAÇÕES...
 
 ➤Se quiser falar comigo meu hotmail está a sua disposição (jovencioneto@hotmail.com)<br>
 ➤Ainda em construção...<br>
 
-**STATUS E REDES SOCIAIS...**<br>
+# STATUS E REDES SOCIAIS...
 
 ➤ Ainda preciso atualizar minhas redes, mas algumas preciso até de idade pra criar (porque Linkedin?)<br>
 
-**CURSO TÉCNICO...**<br>
+# CURSO TÉCNICO...
 
  <table border="2">
    
@@ -107,7 +110,7 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
   </table>
 
-  **ALGUMAS ESTATÍSTICAS...**
+  # ALGUMAS ESTATÍSTICAS...
   
  <div>
   <a href="https://github.com/JovencioNeto">
