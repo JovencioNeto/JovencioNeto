@@ -65,9 +65,9 @@ Buscando sempre expandir meu arsenal de saberes
 # CURSO TÉCNICO...
 
  <table border="2">
-   <
-  <th></th>
-
+   <tr>
+  <th>Análise e Desenvolvimento de Sistemas</th>
+  </tr>
   <tr>
   <td>LÓGICA DE PROGRAMAÇÃO ✔ </td>
   </tr>
