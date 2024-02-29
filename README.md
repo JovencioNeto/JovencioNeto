@@ -6,6 +6,8 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
 # EXPERIÊNCIAS...
 
+Buscando sempre expandir meu arsenal de saberes
+
 <div style="display: inline_block">
   <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
