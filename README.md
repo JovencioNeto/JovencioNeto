@@ -145,7 +145,7 @@ Buscando sempre expandir meu arsenal de saberes
 
   </table>
 
-  # GitHub Stats📈
+  # GitHub Stats📈🤖
   
  <div>
    
