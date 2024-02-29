@@ -8,13 +8,40 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
 Buscando sempre expandir meu arsenal de saberes
 
-<div style="display: inline_block">
-  <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Jovencio-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
-    <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<table border="2">
 
+  <tr>
+    <th>Linguagens utilizadas</th>
+    <th>IDE's</th>
+  </tr>
+
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </td> 
+    
+  </tr>
+  
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </td> 
+  </tr>
+
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
+    </td> 
+  </tr>
+
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </td> 
+  </tr>
+  
+</table>
+  
 # HOBBIES...
 
 ➤Tocar guitarra (aprendendo); <br>
@@ -38,8 +65,8 @@ Buscando sempre expandir meu arsenal de saberes
 # CURSO TÉCNICO...
 
  <table border="2">
-   
-  <th>ANÁLISE E DESENVOLIMENTO DE SISTEMAS</th>
+   <
+  <th></th>
 
   <tr>
   <td>LÓGICA DE PROGRAMAÇÃO ✔ </td>
