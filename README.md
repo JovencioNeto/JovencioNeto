@@ -156,4 +156,4 @@ Buscando sempre expandir meu arsenal de saberes
     
  </div>
 
-
+![Snake animation](https://github.com/JovencioNeto/Jovencio-Neto/blob/output/github-contribution-grid-snake.svg)
