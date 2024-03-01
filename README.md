@@ -156,5 +156,6 @@ Buscando sempre expandir meu arsenal de saberes
     
  </div>
 
-
-![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_so_que_azul_e_maluco.svg)
+ <div>
+  ![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_so_que_azul_e_maluco.svg)
+ </div>
