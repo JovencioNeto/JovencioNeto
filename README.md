@@ -155,7 +155,3 @@ Buscando sempre expandir meu arsenal de saberes
     <img heigth="120em"  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&size_weight=0.5&count_weight=0.5&theme=shadow_red"/>
     
  </div>
-
- <div>
-  ![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_so_que_azul_e_maluco.svg)
- </div>
