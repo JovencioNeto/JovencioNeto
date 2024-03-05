@@ -67,6 +67,13 @@ Buscando sempre expandir meu arsenal de saberes
   <a href="https://www.linkedin.com/in/jov%C3%AAncio-neto-a872122b8/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+
+# PATROCÍNIOS
+
+<div>
+  Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank'>Portifólio</a> do <a href='https://github.com/gustavoalmeidapaula' target='_blank'>Gustavo Almeida Paula</a>, aluno do 2º ano de Desenvolvimento de Sistemas da E.E.E.P Deputado Roberto Mesquita e Designer Gráfico nas horas vagas.
+</div>
+
 # CURSO TÉCNICO...
 
  <table border="2">
