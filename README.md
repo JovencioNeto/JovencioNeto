@@ -44,6 +44,12 @@ Buscando sempre expandir meu arsenal de saberes
       <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </td> 
   </tr>
+
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    </td> 
+  </tr>
   
 </table>
   
