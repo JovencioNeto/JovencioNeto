@@ -6,7 +6,7 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
 ### Quer saber mais sobre mim?
 
-Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <a href="https://jovencioneto.github.io/Portifolio/">Portfolio</a>
+Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href="https://jovencioneto.github.io/Portifolio/">Portfolio</a></strong>
 
 # EXPERIÊNCIAS...
 
