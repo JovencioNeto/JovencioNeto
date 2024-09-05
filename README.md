@@ -4,6 +4,10 @@
 
 Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de música essa coisas alegram meu dia, também adoro cachorros, meu Bethoven é meu precioso🐶❤️
 
+### Quer saber mais sobre mim?
+
+Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <a herf="https://jovencioneto.github.io/Portifolio/">Portfolio</a>
+
 # EXPERIÊNCIAS...
 
 Buscando sempre expandir meu arsenal de saberes
