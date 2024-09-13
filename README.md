@@ -60,12 +60,18 @@ Buscando sempre expandir meu arsenal de saberes
       <img align="center" alt="Lala-MySQL" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </td> 
   </tr>
-
-  <tr>
+  
+   <tr>
     <td>
-      <img align="center" alt="Evs-Bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+       <img align="center" alt="Lala-CPP" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     </td> 
   </tr>
+ 
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+    </td> 
+  </tr>s
   
   
 </table>
