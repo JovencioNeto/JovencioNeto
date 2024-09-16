@@ -11,9 +11,7 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
 # EXPERIÊNCIAS...
 
 Buscando sempre expandir meu arsenal de saberes
-
 <table border="2">
-
   <tr>
     <th>Linguagens utilizadas</th>
     <th>IDE's</th>
@@ -71,9 +69,7 @@ Buscando sempre expandir meu arsenal de saberes
     <td>
       <img align="center" alt="Jovencio-bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
     </td> 
-  </tr>s
-  
-  
+  </tr>
 </table>
   
 # HOBBIES...
