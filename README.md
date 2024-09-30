@@ -2,7 +2,7 @@
 
 ### Atualmente curso Desenvolvimento de Sistemas e quem sabe não viro dev java?!
 
-Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de música essa coisas alegram meu dia, também adoro cachorros, meu Bethoven é meu precioso🐶❤️
+Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de música essas coisas alegram meu dia, também adoro cachorros, meu Bethoven é meu precioso🐶❤️
 
 ### Quer saber mais sobre mim?
 
