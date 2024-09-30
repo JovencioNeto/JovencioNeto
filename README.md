@@ -30,6 +30,9 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   <img align="center" alt="Jovencio-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
 </div>
 
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 # HOBBIES...
 
 ➤Tocar guitarra (aprendendo); <br>
