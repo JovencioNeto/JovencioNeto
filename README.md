@@ -8,70 +8,28 @@ Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de mú
 
 Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href="https://jovencioneto.github.io/Portifolio/">Portfolio</a></strong>
 
-# EXPERIÊNCIAS...
+# Skills 🔥
 
-Buscando sempre expandir meu arsenal de saberes
-<table border="2">
-  <tr>
-    <th>Linguagens utilizadas</th>
-    <th>IDE's</th>
-  </tr>
-
-  <tr>
-    <td>
-      <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </td> 
-    <td>
-      <img align="center" alt="Jovencio-vscode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-    </td>   
-  </tr>
+<div style="flex-basis: 48%;">
+  <h3>Linguagens de Programação</h3>
   
-  <tr>
-    <td>
-      <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </td> 
-    <td>
-      <img align="center" alt="Jovencio-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
-    </td>
-  </tr>
+  <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jovencio-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Jovencio-Python" height="30" width="40" src="https://i.imgur.com/w6HYuAI.png">
+  <img align="center" alt="Jovencio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Lala-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jovencio-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
 
-  <tr>
-    <td>
-      <img align="center" alt="Jovencio-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
-    </td> 
-  </tr>
+### IDE's e Frameworks
 
-  <tr>
-    <td>
-      <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </td> 
-  </tr>
+<div style="flex-basis: 48%;">
+  <img align="center" alt="Jovencio-vscode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+  <img align="center" alt="Jovencio-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+</div>
 
-  <tr>
-    <td>
-      <img align="center" alt="Jovencio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    </td> 
-  </tr>
-
-  <tr>
-    <td>
-      <img align="center" alt="Lala-MySQL" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    </td> 
-  </tr>
-  
-   <tr>
-    <td>
-       <img align="center" alt="Lala-CPP" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    </td> 
-  </tr>
- 
-  <tr>
-    <td>
-      <img align="center" alt="Jovencio-bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-    </td> 
-  </tr>
-</table>
-  
 # HOBBIES...
 
 ➤Tocar guitarra (aprendendo); <br>
