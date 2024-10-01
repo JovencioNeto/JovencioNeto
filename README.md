@@ -6,7 +6,7 @@
 
 ### Quer saber mais sobre mim?
 
-Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href="https://jovencioneto.github.io/Portifolio/">Portfolio</a></strong>
+Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href="https://jovencioneto.github.io/Portifolio/">Portfolio</a></strong> 
 
 # Skills 🔥
 
@@ -34,20 +34,6 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
-
-# HOBBIES...
-<details>
-  <summary>Meus Hobbies</summary> <br>
-  
-  ➤Tocar guitarra (aprendendo); <br>
-  ➤Aprender algo novo(e passar raiva tentando aprender);<br>
-  ➤Andar de bicicleta (com música e um friozinho fica perfeito);<br>
-  ➤Passar raiva jogando com amigos (melhor parte do dia);<br>
-  ➤Passear com meu cachorro (Bethoven lindo);<br>
-  ➤Escutar músicas (F song e Freaks são minhas favoritas);<br>
-  ➤Em progresso (atualizando...);<br>
-  
-</details>
 
 # STATUS E REDES SOCIAIS... 
 
@@ -147,6 +133,20 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   </tr>
 
   </table>
+</details>
+
+# HOBBIES...
+<details>
+  <summary>Meus Hobbies</summary> <br>
+  
+  ➤Tocar guitarra (aprendendo); <br>
+  ➤Aprender algo novo(e passar raiva tentando aprender);<br>
+  ➤Andar de bicicleta (com música e um friozinho fica perfeito);<br>
+  ➤Passar raiva jogando com amigos (melhor parte do dia);<br>
+  ➤Passear com meu cachorro (Bethoven lindo);<br>
+  ➤Escutar músicas (F song e Freaks são minhas favoritas);<br>
+  ➤Em progresso (atualizando...);<br>
+  
 </details>
 
   # GitHub Stats📈🤖
