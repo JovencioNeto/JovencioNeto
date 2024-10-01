@@ -1,8 +1,8 @@
 # Bem-vindo ao meu perfil, me chamo Jovêncio Neto
 
-### Atualmente curso Desenvolvimento de Sistemas e quem sabe não viro dev java?!
-
-Gosto de jogar com os amigos e programar nas horas vagas,com um pouquinho de música essas coisas alegram meu dia, também adoro cachorros, meu Bethoven é meu precioso🐶❤️
+ - Cursando Desenvolvimento de Sistemas na EEEP Deputado Roberto Mesquita (2/3) <br>
+ - Sempre aberto a novas ideias e a aprender algo novo <br>
+ - Meu sonho é um dia poder cursar Engenharia da Computação ou Engenharia de Software<br>
 
 ### Quer saber mais sobre mim?
 
@@ -19,7 +19,7 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   <img align="center" alt="Jovencio-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Jovencio-Python" height="30" width="40" src="https://i.imgur.com/w6HYuAI.png">
   <img align="center" alt="Jovencio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Lala-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jovencio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jovencio-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
@@ -36,14 +36,18 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
 </p>
 
 # HOBBIES...
-
-➤Tocar guitarra (aprendendo); <br>
-➤Aprender algo novo(e passar raiva tentando aprender);<br>
-➤Andar de bicicleta (com música e um friozinho fica perfeito);<br>
-➤Passar raiva jogando com amigos (melhor parte do dia);<br>
-➤Passear com meu cachorro (Bethoven lindo);<br>
-➤Escutar músicas (F song e Freaks são minhas favoritas);<br>
-➤Em progresso (atualizando...);<br>
+<details>
+  <summary>Meus Hobbies</summary> <br>
+  
+  ➤Tocar guitarra (aprendendo); <br>
+  ➤Aprender algo novo(e passar raiva tentando aprender);<br>
+  ➤Andar de bicicleta (com música e um friozinho fica perfeito);<br>
+  ➤Passar raiva jogando com amigos (melhor parte do dia);<br>
+  ➤Passear com meu cachorro (Bethoven lindo);<br>
+  ➤Escutar músicas (F song e Freaks são minhas favoritas);<br>
+  ➤Em progresso (atualizando...);<br>
+  
+</details>
 
 # STATUS E REDES SOCIAIS... 
 
@@ -63,7 +67,11 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
 </div>
 
 # CURSO TÉCNICO...
+<details>
 
+  <summary>Materias do meu curso técnico na EEEP Deputado Roberto Mesquita</summary>
+  <br>
+  
  <table border="2">
    <tr>
   <th>Análise e Desenvolvimento de Sistemas</th>
@@ -139,6 +147,7 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   </tr>
 
   </table>
+</details>
 
   # GitHub Stats📈🤖
   
