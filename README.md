@@ -145,9 +145,7 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   # GitHub Stats📈🤖
   
  <div>
-  <a href="https://github.com/JovencioNeto">
     <img heigth="120em"  width="42%" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=algolia&locale=pt-br"/>
-    <img heigth="120em"  width="44.5%" src="https://github-readme-streak-stats.herokuapp.com?user=JovencioNeto&hide_border=falso&theme=algolia&locale=pt-br"/>
     <img heigth="120em"  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&size_weight=0.5&count_weight=0.5&theme=algolia&locale=pt-br"/>
  </div>
 
