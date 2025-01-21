@@ -145,8 +145,8 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   # GitHub Stats📈🤖
   
  <div>
-    <img heigth="120em"  width="42%" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=algolia&locale=pt-br"/>
-    <img heigth="120em"  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&size_weight=0.5&count_weight=0.5&theme=algolia&locale=pt-br"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=algolia&locale=pt-br"/>
+    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&size_weight=0.5&count_weight=0.5&theme=algolia&locale=pt-br"/>
  </div>
 
 ![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_cobrinha_tchola.svg)
