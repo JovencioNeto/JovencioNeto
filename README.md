@@ -85,43 +85,43 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   </tr>
 
   <tr>
-  <td>SISTEMAS EMBARCADOS 🔄</td>
+  <td>SISTEMAS EMBARCADOS ✔</td>
   </tr>
 
   <tr>
-  <td>GESTÃO DE STARTUPS 2 🔄</td>
+  <td>GESTÃO DE STARTUPS 2 ✔</td>
   </tr>
 
   <tr>
-  <td>PROGRAMAÇÃO ORIENTADA A OBJETOS 🔄</td>
+  <td>PROGRAMAÇÃO ORIENTADA A OBJETOS ✔</td>
   </tr>
 
   <tr>
-  <td>SISTEMAS DE SEGURANÇA DA INFORMAÇÃO 🔄</td>
+  <td>SISTEMAS DE SEGURANÇA DA INFORMAÇÃO ✔</td>
   </tr>
 
   <tr>
-  <td>REDE DE COMPUTADORES 🔄</td>
+  <td>REDE DE COMPUTADORES ✔</td>
   </tr>
 
   <tr>
-  <td>INGLÊS TÉCNICO 🔄</td>
+  <td>INGLÊS TÉCNICO ✔</td>
   </tr>
 
   <tr>
-  <td>QUALIDADE E TESTE DE SOFTWARES ✘</td>
+  <td>QUALIDADE E TESTE DE SOFTWARES 🔄</td>
   </tr>
 
   <tr>
-  <td>PROJETO INTEGRADOR TI ✘</td>
+  <td>PROJETO INTEGRADOR TI 🔄</td>
   </tr>
 
   <tr>
-  <td>DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS ✘</td>
+  <td>DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS 🔄</td>
   </tr>
 
   <tr>
-  <td>GESTÃO DE STARTUPS 3 ✘</td>
+  <td>GESTÃO DE STARTUPS 3 🔄</td>
   </tr>
 
   <tr>
