@@ -12,14 +12,11 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
 
 <div style="flex-basis: 48%;">
   <h3>Linguagens de Programação</h3>
-
-  <img align="center" alt="Jovencio-React-Native" title="React Native" height="45" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
   <img align="center" alt="Jovencio-React" title="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Jovencio-Java" title="Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jovencio-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jovencio-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jovencio-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jovencio-bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Jovencio-Python" title="Python" height="30" width="40" src="https://i.imgur.com/w6HYuAI.png">
   <img align="center" alt="Jovencio-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Jovencio-MySQL"  title="MY SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -31,6 +28,8 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
 <div style="flex-basis: 48%;">
   <img align="center" alt="Jovencio-vscode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
   <img align="center" alt="Jovencio-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+  <img align="center" alt="Jovencio-bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Jovencio-React-Native" title="React Native" height="45" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
 </div>
 <br>
 
