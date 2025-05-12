@@ -1,8 +1,8 @@
 # Bem-vindo ao meu perfil, me chamo Jovêncio Neto
 
- - Cursando Desenvolvimento de Sistemas na EEEP Deputado Roberto Mesquita (2/3) <br>
+ - Cursando Desenvolvimento de Sistemas na EEEP Deputado Roberto Mesquita (3/3) <br>
  - Sempre aberto a novas ideias e a aprender algo novo <br>
- - Meu sonho é um dia poder cursar Engenharia da Computação ou Engenharia de Software<br>
+ - Meu sonho é um dia poder cursar Engenharia da Computação e Engenharia de Software<br>
 
 ### Quer saber mais sobre mim?
 
