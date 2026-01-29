@@ -47,89 +47,6 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   <a href="https://www.linkedin.com/in/jov%C3%AAncio-neto-a872122b8/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-# CURSO TÉCNICO...
-<details>
-
-  <summary>Materias do meu curso técnico na EEEP Deputado Roberto Mesquita</summary>
-  <br>
-  
- <table border="2">
-   <tr>
-  <th>Análise e Desenvolvimento de Sistemas</th>
-  </tr>
-  <tr>
-  <td>LÓGICA DE PROGRAMAÇÃO ✔ </td>
-  </tr>
-  <tr>
-  <td>ARQUITETURA E MANUTENÇÃO DE COMPUTADORES ✔</td>
-  </tr>
-  <tr>
-  <td>PLANEJAMENTO DE CARREIRA ✔</td>
-  </tr>
-  <tr>
-  <td>PROGRAMAÇÃO WEB ✔</td>
-  </tr>
-  <tr>
-  <td>GESTÃO DE STARTUPS 1 ✔</td>
-  </tr>
-  <tr>
-  <td>ANÁLISE E PROJETO DE SISTEMAS ✔</td>
-  </tr>
-  <tr>
-  <td>DESIGN DE INTERFACE E USABILIDADE ✔</td>
-  </tr>
-
-  <tr>
-  <td>BANCO DE DADOS ✔</td>
-  </tr>
-
-  <tr>
-  <td>SISTEMAS EMBARCADOS ✔</td>
-  </tr>
-
-  <tr>
-  <td>GESTÃO DE STARTUPS 2 ✔</td>
-  </tr>
-
-  <tr>
-  <td>PROGRAMAÇÃO ORIENTADA A OBJETOS ✔</td>
-  </tr>
-
-  <tr>
-  <td>SISTEMAS DE SEGURANÇA DA INFORMAÇÃO ✔</td>
-  </tr>
-
-  <tr>
-  <td>REDE DE COMPUTADORES ✔</td>
-  </tr>
-
-  <tr>
-  <td>INGLÊS TÉCNICO ✔</td>
-  </tr>
-
-  <tr>
-  <td>QUALIDADE E TESTE DE SOFTWARES 🔄</td>
-  </tr>
-
-  <tr>
-  <td>PROJETO INTEGRADOR TI 🔄</td>
-  </tr>
-
-  <tr>
-  <td>DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS 🔄</td>
-  </tr>
-
-  <tr>
-  <td>GESTÃO DE STARTUPS 3 🔄</td>
-  </tr>
-
-  <tr>
-  <td>ESTÁGIO ✘</td>
-  </tr>
-
-  </table>
-</details>
-
 # HOBBIES...
 <details>
   <summary>Meus Hobbies</summary> <br>
@@ -148,7 +65,7 @@ Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href=
   
  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=algolia&locale=pt-br"/>
-    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&size_weight=0.5&count_weight=0.5&theme=algolia&locale=pt-br"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&size_weight=0.5&count_weight=0.5&theme=algolia&locale=pt-br"/>
  </div>
 
 ![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_cobrinha_tchola.svg)
