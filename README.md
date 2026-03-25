@@ -4,10 +4,6 @@
 - 💡 Sempre aberto a novas ideias e em constante busca por aprendizado
 - 🚀 Tenho como objetivo cursar **Engenharia da Computação** e crescer profissionalmente na área de tecnologia
 
-### Quer saber mais sobre mim?
-
-Se quiser saber mais sobre mim que tal ir dar uma olhada no meu <strong><a href="https://jovencioneto.github.io/Portifolio/">Portfolio</a></strong> 
-
 # Skills 🔥
 
 <div style="flex-basis: 48%;">
