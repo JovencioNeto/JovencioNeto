@@ -9,40 +9,41 @@
 
 ### 🚀 Linguagens
 
-<p align="left">
-  <img title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img title="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img title="Python" height="30" src="https://i.imgur.com/w6HYuAI.png">
-  <img title="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img title="C (aprendendo)" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</p>
+<div align="left">
+  <img title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img title="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
+  <img title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
+  <img title="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
+  <img title="Python" height="30" src="https://i.imgur.com/w6HYuAI.png">&nbsp;&nbsp;
+  <img title="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;
+  <img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
 
 ---
 
 ### 🎨 Front-end
 
 <p align="left">
-  <img title="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img title="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img title="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+  <img title="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;&nbsp;
 </p>
 
 ---
 
 ### 🛠 Ferramentas & Frameworks
 
-<p align="left">
-  <img title="VS Code" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-  <img title="PyCharm" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
-  <img title="React Native" height="30" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
-</p>
+<div align="left">
+  <img title="VS Code" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">&nbsp;&nbsp;
+  <img title="PyCharm" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">&nbsp;&nbsp;
+  <img title="React Native" height="30" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">&nbsp;&nbsp;
+</div>
 
 ---
 
-<p align="left">
+<div align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+</div>
 
 # STATUS E REDES SOCIAIS... 
 
