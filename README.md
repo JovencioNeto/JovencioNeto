@@ -3,7 +3,7 @@
 🎓 Técnico em Desenvolvimento de Sistemas pela **EEEP Deputado Roberto Mesquita**  
 🎓 Atualmente graduando em **Engenharia da Computação**  
 💡 Apaixonado por tecnologia e sempre em busca de evolução  
-🚀 Focado em crescer profissionalmente como desenvolvedor  
+🚀 Focado em evoluir como desenvolvedor e como Engenheiro da Computação, construindo uma base sólida em software e hardware
 
 ## 💻 Tecnologias & Skills
 
