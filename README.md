@@ -36,8 +36,7 @@
 <div align="left">
   <img title="VS Code" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">&nbsp;&nbsp;
   <img title="PyCharm" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">&nbsp;&nbsp;
-  <img title="React Native" height="30" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">&nbsp;&nbsp;
-</div>
+  <img title="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 ---
 
