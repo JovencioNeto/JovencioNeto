@@ -57,8 +57,9 @@
 ## GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=algolia&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=30"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&layout=compact&theme=algolia&locale=pt-br&cache_seconds=30"/>
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=algolia&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=30"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&layout=compact&theme=algolia&locale=pt-br&cache_seconds=30"/> -->
+  <img src="https://streak-stats.demolab.com?user=JovencioNeto&theme=algolia&locale=pt-br"/>
 </div>
 
 <br>
